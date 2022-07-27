@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyashvijaykar
-- 👀 I’m interested in MERN stack application devlopemnt, Deploying application to cloud, managing cloud application, cloud operation, DevOps, Blockchain.
+- 👀 I’m interested in MERN stack application developemnt, Deploying application to cloud, managing cloud application and infrastructure, cloud operation, DevOps, Blockchain.
 - 🌱 I’m currently learning google cloud platform, Kubernetes and blockchain.
 - 💞️ I’m looking to collaborate on blockchain.
 - 📫 How to reach me mail me at svijaykar185@gmail.com
